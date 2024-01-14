@@ -137,7 +137,7 @@ print(selectedItems);
 
 ## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Flipkart Review Scrapper](https://github.com/shashikantkaushik/flipkart_review_scrapper_DS/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Custom Drop Down](https://github.com/shashikantkaushik/customizable_drop_down_menu_package/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
 <br>
 
@@ -148,7 +148,7 @@ Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaus
 <br>
 
 ## :closed_book: License
-This project is open source and available under the MIT License.
+This is completely build by Shashi Kant Kaushik form scratch 
 
 
 <br>
